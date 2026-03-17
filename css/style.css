@@ -1,0 +1,19 @@
+h1 {
+    color: darkred;
+    text-align: center;
+}
+
+body {
+    color: grey;
+    background-color: black;
+}
+
+.welcome {
+    color: darkred;
+    font-weight: bold;
+    text-align: center;
+}
+
+.word-to-be-defined {
+    color: darkred;
+}
